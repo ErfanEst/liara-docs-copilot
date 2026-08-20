@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "eslint",
     "docs:ingest": "tsx scripts/ingest-docs.ts",
-    "docs:check": "tsx scripts/check-ingestion.ts"
+    "docs:check": "tsx scripts/check-ingestion.ts",
+    "docs:search": "tsx scripts/search-docs.ts",
+    "retrieval:eval": "tsx scripts/eval-retrieval.ts"
   },
   "dependencies": {
     "next": "16.3.1",
