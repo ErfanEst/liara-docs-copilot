@@ -1,0 +1,128 @@
+[
+  {
+    "query": "چطور Next.js رو به PostgreSQL وصل کنم؟",
+    "expectedPaths": [
+      "paas/nextjs/how-tos/connect-to-db/postgresql",
+      "dbaas/postgresql/how-tos/connect-via-platform/nextjs"
+    ]
+  },
+  {
+    "query": "پستگرس رو چطوری به نکست وصل کنم؟",
+    "expectedPaths": [
+      "paas/nextjs/how-tos/connect-to-db/postgresql",
+      "dbaas/postgresql/how-tos/connect-via-platform/nextjs"
+    ]
+  },
+  {
+    "query": "Next.js PostgreSQL connection",
+    "expectedPaths": [
+      "paas/nextjs/how-tos/connect-to-db/postgresql",
+      "dbaas/postgresql/how-tos/connect-via-platform/nextjs"
+    ]
+  },
+  {
+    "query": "اتصال Node.js به Redis",
+    "expectedPaths": [
+      "paas/nodejs/how-tos/connect-to-db/redis",
+      "dbaas/redis/how-tos/connect-via-platform/nodejs"
+    ]
+  },
+  {
+    "query": "ردیس برای نود جی اس",
+    "expectedPaths": [
+      "paas/nodejs/how-tos/connect-to-db/redis",
+      "dbaas/redis/how-tos/connect-via-platform/nodejs"
+    ]
+  },
+  {
+    "query": "Node Redis connection",
+    "expectedPaths": [
+      "paas/nodejs/how-tos/connect-to-db/redis",
+      "dbaas/redis/how-tos/connect-via-platform/nodejs"
+    ]
+  },
+  {
+    "query": "چطور دامنه رو به برنامه لیارا اضافه کنم؟",
+    "expectedPaths": [
+      "paas/domains/add-domain"
+    ]
+  },
+  {
+    "query": "اضافه کردن دامین به اپ لیارا",
+    "expectedPaths": [
+      "paas/domains/add-domain"
+    ]
+  },
+  {
+    "query": "add domain to Liara app",
+    "expectedPaths": [
+      "paas/domains/add-domain"
+    ]
+  },
+  {
+    "query": "خطای Could not modify config file در NextJS",
+    "expectedPaths": [
+      "paas/nextjs/fix-common-errors/modify-config-file"
+    ]
+  },
+  {
+    "query": "Next.js could not modify config file",
+    "expectedPaths": [
+      "paas/nextjs/fix-common-errors/modify-config-file"
+    ]
+  },
+  {
+    "query": "چطور در Next.js cron job تنظیم کنم؟",
+    "expectedPaths": [
+      "paas/nextjs/how-tos/set-cron-job"
+    ]
+  },
+  {
+    "query": "NextJS cron",
+    "expectedPaths": [
+      "paas/nextjs/how-tos/set-cron-job"
+    ]
+  },
+  {
+    "query": "آی پی ثابت برنامه لیارا",
+    "expectedPaths": [
+      "paas/details/static-ip"
+    ]
+  },
+  {
+    "query": "static IP for Liara app",
+    "expectedPaths": [
+      "paas/details/static-ip"
+    ]
+  },
+  {
+    "query": "چه TLD هایی در لیارا پشتیبانی نمی‌شوند؟",
+    "expectedPaths": [
+      "paas/domains/supported-tlds"
+    ]
+  },
+  {
+    "query": "پورت های ایمیل سرور لیارا",
+    "expectedPaths": [
+      "email-server/details/ports"
+    ]
+  },
+  {
+    "query": "email server ports",
+    "expectedPaths": [
+      "email-server/details/ports"
+    ]
+  },
+  {
+    "query": "چطور فایل داخل باکت آپلود کنم؟",
+    "expectedPaths": [
+      "object-storage/how-tos/upload-file"
+    ]
+  },
+  {
+    "query": "Agent در سرویس AI چطور کار می‌کند؟",
+    "expectedPaths": [
+      "ai/foundations/agents"
+    ]
+  }
+]
