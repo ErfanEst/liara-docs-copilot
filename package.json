@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "docs:ingest": "tsx scripts/ingest-docs.ts",
+    "docs:check": "tsx scripts/check-ingestion.ts"
   },
   "dependencies": {
     "next": "16.3.1",
@@ -21,6 +23,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.3.1",
     "tailwindcss": "^4",
+    "tsx": "^4.23.12",
     "typescript": "^5"
   }
 }
